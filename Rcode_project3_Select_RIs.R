@@ -2,7 +2,7 @@
 library(foreign)
 library(dplyr)
 library(sqldf)
-library(lavaan) # to call riclpmModel
+library(lavaan) # apply riclpmModel
 library(restriktor) # to call GORICA
 
 #load dataset
